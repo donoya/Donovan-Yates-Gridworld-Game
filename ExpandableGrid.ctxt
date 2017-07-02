@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.util.ArrayList\ getOccupiedLocations()
+comment1.params=loc
+comment1.target=java.lang.Object\ get(info.gridworld.grid.Location)
+comment2.params=loc\ obj
+comment2.target=java.lang.Object\ put(info.gridworld.grid.Location,\ java.lang.Object)
+comment3.params=loc
+comment3.target=java.lang.Object\ remove(info.gridworld.grid.Location)
+comment4.params=
+comment4.target=int\ getNumRows()
+comment5.params=
+comment5.target=int\ getNumCols()
+comment6.params=loc
+comment6.target=boolean\ isValid(info.gridworld.grid.Location)
+comment7.params=w
+comment7.target=void\ setWorld(info.gridworld.actor.ActorWorld)
+comment8.params=
+comment8.target=info.gridworld.actor.ActorWorld\ getWorld()
+numComments=9

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ getMaxSize()
+comment0.text=\r\n\ Returns\ the\ max\ number\ of\ items\ of\ the\ stack's\ type\ that\ it\ can\ hold\r\n\ \r\n\ @param\ \ N/A\r\n\ @return\ \ \ \ \ The\ maximum\ items\ of\ the\ stack's\ type\ that\ it\ can\ hold\r\n
+comment1.params=
+comment1.target=java.lang.String\ getItemType()
+comment1.text=\r\n\ Returns\ the\ stack's\ item\ type\r\n\ \r\n\ @param\ \ N/A\r\n\ @return\ \ \ \ \ The\ type\ of\ item\ in\ the\ stack\r\n
+comment2.params=
+comment2.target=java.lang.String\ getMod()
+comment3.params=
+comment3.target=int\ getCurrentSize()
+comment3.text=\r\n\ Returns\ the\ current\ number\ of\ items\ in\ the\ stack\r\n\ \r\n\ @param\ \ N/A\r\n\ @return\ \ \ \ \ The\ current\ number\ of\ items\ in\ the\ stack\r\n
+comment4.params=item\ quantity\ password
+comment4.target=int\ addToStack(ItemStack,\ int,\ java.lang.String)
+comment4.text=\r\n\ Adds\ a\ number\ of\ items\ to\ the\ stack\r\n\ \r\n\ @param\ \ \ item,quantity\ \ \ \ The\ item\ to\ be\ added,\ The\ number\ to\ be\ added\r\n\ @return\ \ \ \ \ A\ success\ condition\r\n
+comment5.params=quantity\ password
+comment5.target=int\ removeFromStack(int,\ java.lang.String)
+comment5.text=\r\n\ Returns\ the\ max\ number\ of\ items\ of\ the\ stack's\ type\ that\ it\ can\ hold\r\n\ \r\n\ @param\ \ \ item,quantity\ \ \ \ The\ item\ to\ be\ taken,\ The\ number\ to\ be\ added\r\n\ @return\ \ \ \ \ A\ success\ condition\r\n
+comment6.params=
+comment6.target=void\ act()
+comment7.params=
+comment7.target=void\ removeSelfFromGrid()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

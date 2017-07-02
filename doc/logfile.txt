@@ -1,0 +1,47 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files (x86)\BlueJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;C:\Users\donovan\GridWorldCode\gridworld.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-core.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-device.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-gpio-extension.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-service.jar;C:\Users\donovan\Documents\Text Test
+-d
+C:\Users\donovan\Documents\Text Test\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+C:\Users\donovan\Documents\Text Test\ItemStack.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\donovan\Documents\Text Test\ItemStack.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_40
+Building tree for all the packages and classes...
+Generating C:\Users\donovan\Documents\Text Test\doc\ItemStack.html...
+C:\Users\donovan\Documents\Text Test\ItemStack.java:66: warning - @param argument "item,quantity" is not a parameter name.
+C:\Users\donovan\Documents\Text Test\ItemStack.java:56: warning - @param argument "N/A" is not a parameter name.
+C:\Users\donovan\Documents\Text Test\ItemStack.java:46: warning - @param argument "N/A" is not a parameter name.
+C:\Users\donovan\Documents\Text Test\ItemStack.java:36: warning - @param argument "N/A" is not a parameter name.
+C:\Users\donovan\Documents\Text Test\ItemStack.java:84: warning - @param argument "item,quantity" is not a parameter name.
+Generating C:\Users\donovan\Documents\Text Test\doc\package-frame.html...
+Generating C:\Users\donovan\Documents\Text Test\doc\package-summary.html...
+Generating C:\Users\donovan\Documents\Text Test\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating C:\Users\donovan\Documents\Text Test\doc\allclasses-frame.html...
+Generating C:\Users\donovan\Documents\Text Test\doc\allclasses-noframe.html...
+Generating C:\Users\donovan\Documents\Text Test\doc\index.html...
+Generating C:\Users\donovan\Documents\Text Test\doc\stylesheet.css...
+5 warnings

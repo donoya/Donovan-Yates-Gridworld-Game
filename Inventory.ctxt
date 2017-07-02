@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=Inventory(int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Inventory\r\n
+comment1.params=g
+comment1.target=Inventory(info.gridworld.grid.BoundedGrid)
+comment10.params=loc\ quantity\ password
+comment10.target=ItemStack\ removeItems(info.gridworld.grid.Location,\ int,\ java.lang.String)
+comment11.params=
+comment11.target=int\ getMaxSize_Use_this()
+comment2.params=
+comment2.target=ItemStack[]\ checkItems_Use_this()
+comment3.params=i
+comment3.target=ItemStack\ checkSlot_Use_this(int)
+comment4.params=loc
+comment4.target=ItemStack\ checkSlot_Use_this(info.gridworld.grid.Location)
+comment5.params=item\ password
+comment5.target=ItemStack\ addItem(ItemStack,\ java.lang.String)
+comment6.params=sending\ recieving\ quantity
+comment6.target=int\ transferItems(ItemStack,\ ItemStack,\ int)
+comment7.params=loc\ occupant
+comment7.target=void\ add(info.gridworld.grid.Location,\ ItemStack)
+comment8.params=occupant
+comment8.target=void\ add(ItemStack)
+comment9.params=loc
+comment9.target=ItemStack\ remove(info.gridworld.grid.Location)
+numComments=12
